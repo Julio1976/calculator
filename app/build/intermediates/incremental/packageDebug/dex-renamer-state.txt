@@ -1,0 +1,7 @@
+#Wed Oct 25 20:29:24 BRST 2017
+base.0=E\:\\CURSO MOBILE\\Android Studio\\Calculadora\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_67b67854960be4da7121f9b76c4f91e054f54d20
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\CURSO MOBILE\\Android Studio\\Calculadora\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6d10d9a35219e4b2846790e4f26fc03bfa3044ab\\classes.dex
+base.1=E\:\\CURSO MOBILE\\Android Studio\\Calculadora\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6d10d9a35219e4b2846790e4f26fc03bfa3044ab
+file.0=E\:\\CURSO MOBILE\\Android Studio\\Calculadora\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_67b67854960be4da7121f9b76c4f91e054f54d20\\classes.dex

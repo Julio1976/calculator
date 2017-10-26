@@ -1,0 +1,4 @@
+#Wed Oct 25 20:26:27 BRST 2017
+base.0=E\:\\CURSO MOBILE\\Android Studio\\Calculadora\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
+renamed.0=classes.dex
+file.0=E\:\\CURSO MOBILE\\Android Studio\\Calculadora\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex
